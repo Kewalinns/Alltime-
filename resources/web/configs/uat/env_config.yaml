@@ -1,0 +1,5 @@
+site_url:              https://alltime-uat.cpf.co.th/
+global_timeout:        30
+selenium_speed:        0.2
+headless:              false
+record:                false

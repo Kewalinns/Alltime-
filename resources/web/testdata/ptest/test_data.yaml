@@ -1,0 +1,2628 @@
+hr:
+  username:              HR_Testtool
+  password:              testtool@321
+kunyarat:
+  username:              kunyarat.sea
+  password:              testtool@321
+parichat:
+  username:              parichat.sab
+  password:              testtool@321
+chutinan:
+  username:              chutinan.pas
+  password:              testtool@321
+surasak:
+  username:              surasak.boo
+  password:              testtool@321
+sanhawat:
+  username:              sanhawat.kog
+  password:              testtool@321
+g_payable:
+  username:              THAGR_UAT@10160438
+  password:              testtool@321
+delete:
+  username:              testtoolimp
+  password:              testtool@321
+testdata01:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 1
+  leave_approval:                     กัญญารัตน์
+  leave_type:                         First Half
+  leave_name:                         Sick Leave Take
+  leave_status:                       Approved
+  leave_approve_date:                 16/02/2021
+  leave_start_date:                   16/02/2021
+  leave_end_date:                     16/02/2021
+  ot_type:                            O.T.1.5(After Shift)
+  ot_hour:                            '4'
+  ot_min:                             '00'
+  ot_time:                            '4.00'
+  ot_ex_type:                         ''
+  ot_ex_hour:                         ''
+  ot_ex_min:                          ''
+  ot_ex_time:                         ''
+  work_date:                          16/02/2021
+  date_in:                            16/02/2021
+  date_out:                           17/02/2021
+  time_in:                            '23:54'
+  time_out:                           '08:05'
+  time_req_reason:                    ทดสอบ
+  status_in:                          ''
+  status_out:                         ''
+  payable_period:                     4 (16-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10393638'
+    Full Name:                        นาง รุ่งเพชร ทับ10393638
+    First Name:                       รุ่งเพชร
+    Last Name:                        ทับ10393638
+    Date:                             16/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '0.50'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     '2.75'
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       '0.50'
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY01:
+  data:                               cleaned
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  work_date:                          15/02/2021
+  date_in:                            15/02/2021
+  date_out:                           15/02/2021
+  time_in:                            '07:55'
+  time_out:                           '17:12'
+  time_req_reason:                    ทดสอบ
+  status_in:                          ''
+  status_out:                         ''
+  payable_period:                     3 (01-02-2021 - 15-02-2021)
+  employee_data:
+    EmployeeID:                       '10297795'
+    Full Name:                        นางสาว นฤมล รัก10297795
+    First Name:                       นฤมล
+    Last Name:                        รัก10297795
+    Date:                             15/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY02:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  work_date:                          15/02/2021
+  date_in:                            15/02/2021
+  date_out:                           15/02/2021
+  time_in:                            '08:55'
+  time_out:                           '17:12'
+  time_req_reason:                    ทดสอบ
+  status_in:                          'L'
+  status_out:                         ''
+  payable_period:                     3 (01-02-2021 - 15-02-2021)
+  employee_data:
+    EmployeeID:                       '10070791'
+    Full Name:                        นาย สุทน ปรา10070791
+    First Name:                       สุทน
+    Last Name:                        ปรา10070791
+    Date:                             15/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY03:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  work_date:                          15/02/2021
+  date_in:                            15/02/2021
+  date_out:                           15/02/2021
+  time_in:                            '07:55'
+  time_out:                           '16:12'
+  time_req_reason:                    ทดสอบ
+  status_in:                          ''
+  status_out:                         'B'
+  payable_period:                     3 (01-02-2021 - 15-02-2021)
+  employee_data:
+    EmployeeID:                       '10262545'
+    Full Name:                        นาย ปกรณ์ นรส10262545
+    First Name:                       ปกรณ์
+    Last Name:                        นรส10262545
+    Date:                             15/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY04:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  work_date:                          15/02/2021
+  date_in:                            15/02/2021
+  date_out:                           15/02/2021
+  time_in:                            'Absent'
+  time_out:                           'Absent'
+  status_in:                          ''
+  status_out:                         ''
+  payable_period:                     3 (01-02-2021 - 15-02-2021)
+  employee_data:
+    EmployeeID:                       '10211740'
+    Full Name:                        นาย สมควร สุด10211740
+    First Name:                       สมควร
+    Last Name:                        สุด10211740
+    Date:                             17/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     '1.00'
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY05:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  work_date:                          15/02/2021
+  ot_type:                            O.T.1.5(After Shift)
+  ot_hour:                            '4'
+  ot_min:                             '00'
+  ot_time:                            '4.00'
+  date_in:                            15/02/2021
+  date_out:                           15/02/2021
+  time_in:                            '07:55'
+  time_out:                           '19:12'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     3 (01-02-2021 - 15-02-2021)
+  employee_data:
+    EmployeeID:                       '10307391'
+    Full Name:                        นาย ศตวรรษ ทอง10307391
+    First Name:                       ศตวรรษ
+    Last Name:                        ทอง10307391
+    Date:                             15/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     '1.87'
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY06:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  work_date:                          15/02/2021
+  ot_type:                            O.T.1.5(After Shift)
+  ot_hour:                            '2'
+  ot_min:                             '00'
+  ot_time:                            '2.00'
+  date_in:                            15/02/2021
+  date_out:                           15/02/2021
+  time_in:                            '07:55'
+  time_out:                           '20:12'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     3 (01-02-2021 - 15-02-2021)
+  employee_data:
+    EmployeeID:                       '10230857'
+    Full Name:                        นางสาว สมมาตร ขำเ10230857
+    First Name:                       สมมาตร
+    Last Name:                        ขำเ10230857
+    Date:                             15/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY07:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  leave_approval:                     กัญญารัตน์
+  leave_type:                         Full Day
+  leave_name:                         Sick Leave Take
+  leave_status:                       Approved
+  leave_approve_date:                 15/02/2021
+  leave_start_date:                   15/02/2021
+  leave_end_date:                     15/02/2021
+  date_in:                            15/02/2021
+  date_out:                           15/02/2021
+  payable_period:                     ''
+  employee_data:
+    EmployeeID:                       '10402468'
+    Full Name:                        นางสาว สมฤทัย แสน10402468
+    First Name:                       สมฤทัย
+    Last Name:                        แสน10402468
+    Date:                             15/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       '1.00'
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY08:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  leave_approval:                     กัญญารัตน์
+  leave_type:                         Full Day
+  leave_name:                         Sick Leave Take
+  leave_status:                       Awaiting
+  leave_approve_date:                 16/02/2021
+  leave_start_date:                   16/02/2021
+  leave_end_date:                     16/02/2021
+  payable_period:                     3 (01-02-2021 - 15-02-2021)
+  date_in:                            16/02/2021
+  date_out:                           16/02/2021
+  employee_data:
+    EmployeeID:                       '10230854'
+    Full Name:                        นาง สุนิสา มีแ10230854
+    First Name:                       สุนิสา
+    Last Name:                        มีแ10230854
+    Date:                             15/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     '1.00'
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY09:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  leave_approval:                     กัญญารัตน์
+  leave_type:                         First Half
+  leave_name:                         Personal leave take
+  leave_status:                       Approved
+  leave_approve_date:                 15/02/2021
+  leave_start_date:                   15/02/2021
+  leave_end_date:                     15/02/2021
+  work_date:                          15/02/2021
+  date_in:                            15/02/2021
+  date_out:                           15/02/2021
+  time_in:                            '13:05'
+  time_out:                           '17:13'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     3 (01-02-2021 - 15-02-2021)
+  employee_data:
+    EmployeeID:                       '10387131'
+    Full Name:                        นางสาว จีรพรรณ งอก10387131
+    First Name:                       จีรพรรณ
+    Last Name:                        งอก10387131
+    Date:                             15/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '0.50'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             '0.50'
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY10:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  work_date:                          14/02/2021
+  date_in:                            14/02/2021
+  date_out:                           14/02/2021
+  time_in:                            '07:55'
+  time_out:                           '17:13'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     3 (01-02-2021 - 15-02-2021)
+  employee_data:
+    EmployeeID:                       '10379958'
+    Full Name:                        นางสาว เขมมิกา เรื10379958
+    First Name:                       เขมมิกา
+    Last Name:                        เรื10379958
+    Date:                             14/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY11:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  ot_type:                            O.T.2
+  ot_hour:                            '6'
+  ot_min:                             '00'
+  ot_time:                            '6.00'
+  work_date:                          14/02/2021
+  date_in:                            14/02/2021
+  date_out:                           14/02/2021
+  time_in:                            '07:55'
+  time_out:                           '15:10'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     3 (01-02-2021 - 15-02-2021)
+  employee_data:
+    EmployeeID:                       '10383202'
+    Full Name:                        นางสาว จิราพรรณ ธิม10383202
+    First Name:                       จิราพรรณ
+    Last Name:                        ธิม10383202
+    Date:                             14/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    '6.00'
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY12:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  ot_type:                            O.T.2
+  ot_hour:                            '8'
+  ot_min:                             '00'
+  ot_time:                            '8.00'
+  ot_ex_type:                         'O.T.3(After Shift)'
+  ot_ex_hour:                         '2'
+  ot_ex_min:                          '00'
+  ot_ex_time:                         '2.00'
+  work_date:                          14/02/2021
+  date_in:                            14/02/2021
+  date_out:                           14/02/2021
+  time_in:                            '07:55'
+  time_out:                           '21:50'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     3 (01-02-2021 - 15-02-2021)
+  employee_data:
+    EmployeeID:                       '10393698'
+    Full Name:                        นางสาว ศุภรานันท์ โกม10393698
+    First Name:                       ศุภรานันท์
+    Last Name:                        โกม10393698
+    Date:                             14/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    '8.00'
+    O.T.3(After Shift) (Hours):       '2.00'
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY13:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  ot_type:                            ''
+  ot_hour:                            ''
+  ot_min:                             ''
+  ot_time:                            ''
+  ot_ex_type:                         ''
+  ot_ex_hour:                         ''
+  ot_ex_min:                          ''
+  ot_ex_time:                         ''
+  work_date:                          03/02/2021
+  date_in:                            03/02/2021
+  date_out:                           03/02/2021
+  time_in:                            ''
+  time_out:                           ''
+  time_req_reason:                    ทดสอบ
+  payable_period:                     3 (01-02-2021 - 15-02-2021)
+  employee_data:
+    EmployeeID:                       '10396948'
+    Full Name:                        นางสาว วรรณอุษา ว่อ10396948
+    First Name:                       วรรณอุษา
+    Last Name:                        ว่อ10396948
+    Date:                             03/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY14:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  ot_type:                            ''
+  ot_hour:                            ''
+  ot_min:                             ''
+  ot_time:                            ''
+  ot_ex_type:                         ''
+  ot_ex_hour:                         ''
+  ot_ex_min:                          ''
+  ot_ex_time:                         ''
+  work_date:                          03/02/2021
+  date_in:                            03/02/2021
+  date_out:                           03/02/2021
+  time_in:                            '07:55'
+  time_out:                           '17:12'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     3 (01-02-2021 - 15-02-2021)
+  employee_data:
+    EmployeeID:                       '10393674'
+    Full Name:                        นาย สุรเชษฐ์ หาญ10393674
+    First Name:                       สุรเชษฐ์
+    Last Name:                        หาญ10393674
+    Date:                             03/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY15:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  ot_type:                            O.T. 1(Daily)
+  ot_hour:                            '6'
+  ot_min:                             '00'
+  ot_time:                            '6.00'
+  ot_ex_type:                         ''
+  ot_ex_hour:                         ''
+  ot_ex_min:                          ''
+  ot_ex_time:                         ''
+  work_date:                          03/02/2021
+  date_in:                            03/02/2021
+  date_out:                           03/02/2021
+  time_in:                            '07:55'
+  time_out:                           '14:12'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     3 (01-02-2021 - 15-02-2021)
+  employee_data:
+    EmployeeID:                       '10393684'
+    Full Name:                        นาย อนุรักษ์ สุท10393684
+    First Name:                       อนุรักษ์
+    Last Name:                        สุท10393684
+    Date:                             03/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            '5.20'
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY16:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  ot_type:                            O.T. 1(Daily)
+  ot_hour:                            '8'
+  ot_min:                             '00'
+  ot_time:                            '8.00'
+  ot_ex_type:                         'O.T.3(After Shift)'
+  ot_ex_hour:                         '2'
+  ot_ex_min:                          '00'
+  ot_ex_time:                         '2.00'
+  work_date:                          03/02/2021
+  date_in:                            03/02/2021
+  date_out:                           03/02/2021
+  time_in:                            '07:55'
+  time_out:                           '18:42'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     3 (01-02-2021 - 15-02-2021)
+  employee_data:
+    EmployeeID:                       '10379931'
+    Full Name:                        นาง ไพรินทร์ มุ่10379931
+    First Name:                       ไพรินทร์
+    Last Name:                        มุ่10379931
+    Date:                             03/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            '8.00'
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       '1.37'
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY17:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  leave_approval:                     กัญญารัตน์
+  leave_type:                         Full Day
+  leave_name:                         Vacation leave take
+  leave_status:                       Approved
+  leave_approve_date:                 01/03/2021
+  leave_start_date:                   01/03/2021
+  leave_end_date:                     01/03/2021
+  date_in:                            01/03/2021
+  date_out:                           01/03/2021
+  time_in:                            '07:55'
+  time_out:                           '17:12'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     5 (01-03-2021 - 15-03-2021)
+  employee_data:
+    EmployeeID:                       '10377157'
+    Full Name:                        นาย อภิสิทธิ์ บุญ10377157
+    First Name:                       อภิสิทธิ์
+    Last Name:                        บุญ10377157
+    Date:                             01/03/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   '1.00'
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY18:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  leave_approval:                     กัญญารัตน์
+  leave_type:                         Full Day
+  leave_name:                         Vacation leave take
+  leave_status:                       Approved
+  leave_approve_date:                 01/03/2021
+  leave_start_date:                   01/03/2021
+  leave_end_date:                     01/03/2021
+  date_in:                            01/03/2021
+  date_out:                           01/03/2021
+  time_in:                            
+  time_out:                           
+  time_req_reason:                    ทดสอบ
+  payable_period:                     
+  employee_data:
+    EmployeeID:                       '10312525'
+    Full Name:                        นาย ประสิทธิ์ ภาพ10312525
+    First Name:                       ประสิทธิ์
+    Last Name:                        ภาพ10312525
+    Date:                             01/03/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   '1.00'
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY19:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  leave_approval:                     กัญญารัตน์
+  leave_type:                         Second Half
+  leave_name:                         Personal leave take
+  leave_status:                       Approved
+  leave_approve_date:                 01/03/2021
+  leave_start_date:                   01/03/2021
+  leave_end_date:                     01/03/2021
+  date_in:                            01/03/2021
+  date_out:                           01/03/2021
+  time_in:                            '11:00'
+  time_out:                           '12:00'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     
+  employee_data:
+    EmployeeID:                       '10181119'
+    Full Name:                        นาง พัทธนันท์ พวง10181119
+    First Name:                       พัทธนันท์
+    Last Name:                        พวง10181119
+    Date:                             01/03/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     '0.50'
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             '0.50'
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_DAILY20:
+  workgroup:                          CPF Korat Slaugther - Daily
+  work_type:                          DAILY EMPLOYEE
+  department:                         งานบรรจุกล่อง กะ 2
+  ot_type:                            O.T.2
+  ot_hour:                            '6'
+  ot_min:                             '00'
+  ot_time:                            '6.00'
+  ot_ex_type:                         'O.T.3(After Shift)'
+  ot_ex_hour:                         '3'
+  ot_ex_min:                          '00'
+  ot_ex_time:                         '3.00'
+  date_in:                            07/03/2021
+  date_out:                           07/03/2021
+  time_in:                            '08:00'
+  time_out:                           '20:00'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     
+  employee_data:
+    EmployeeID:                       '10409237'
+    Full Name:                        นางสาว สุดารัตน์ เจร10409237
+    First Name:                       สุดารัตน์
+    Last Name:                        เจร10409237
+    Date:                             07/03/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    '6.00'
+    O.T.3(After Shift) (Hours):       '2.67'
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+
+TC_MONTHLY_GUARD01:
+  workgroup:                          CPF Korat Guard - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกรักษาความปลอดภัย โรงงานแปรรูปเนื้อไก่นครราชสีมา
+  work_date:                          11/02/2021
+  date_in:                            11/02/2021
+  date_out:                           11/02/2021
+  time_in:                            '08:00'
+  time_out:                           '17:00'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10389233'
+    Full Name:                        นาย สถิตย์ เจร10389233
+    First Name:                       สถิตย์
+    Last Name:                        เจร10389233
+    Date:                             11/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_MONTHLY_GUARD02:
+  workgroup:                          CPF Korat Guard - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกรักษาความปลอดภัย โรงงานแปรรูปเนื้อไก่นครราชสีมา
+  ot_type:                            O.T.1(Guard)
+  ot_hour:                            '2'
+  ot_min:                             '00'
+  ot_time:                            '2.00'
+  work_date:                          12/02/2021
+  date_in:                            12/02/2021
+  date_out:                           12/02/2021
+  time_in:                            '08:00'
+  time_out:                           '19:00'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10389233'
+    Full Name:                        นาย สถิตย์ เจร10389233
+    First Name:                       สถิตย์
+    Last Name:                        เจร10389233
+    Date:                             12/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             '2.00'
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_MONTHLY_GUARD03:
+  workgroup:                          CPF Korat Guard - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกรักษาความปลอดภัย โรงงานแปรรูปเนื้อไก่นครราชสีมา
+  leave_approval:                     สัณหวัช
+  leave_type:                         Full Day
+  leave_name:                         Personal leave take
+  leave_status:                       Approved
+  leave_approve_date:                 15/02/2021
+  leave_start_date:                   15/02/2021
+  leave_end_date:                     15/02/2021
+  date_in:                            15/02/2021
+  date_out:                           15/02/2021
+  time_in:                            'Personal Leave'
+  time_out:                           'Personal Leave'
+  status_in:                          ''
+  status_out:                         ''
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10389233'
+    Full Name:                        นาย สถิตย์ เจร10389233
+    First Name:                       สถิตย์
+    Last Name:                        เจร10389233
+    Date:                             15/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             '1.00'
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_MONTHLY_GUARD04:
+  workgroup:                          CPF Korat Guard - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกรักษาความปลอดภัย โรงงานแปรรูปเนื้อไก่นครราชสีมา
+  leave_approval:                     สัณหวัช
+  leave_type:                         Second Half
+  leave_name:                         Vacation leave take
+  leave_status:                       Approved
+  leave_approve_date:                 22/02/2021
+  leave_start_date:                   22/02/2021
+  leave_end_date:                     22/02/2021
+  date_in:                            22/02/2021
+  date_out:                           22/02/2021
+  time_in:                            'Absent'
+  time_out:                           'Vacation Leave'
+  status_in:                          ''
+  status_out:                         ''
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10389233'
+    Full Name:                        นาย สถิตย์ เจร10389233
+    First Name:                       สถิตย์
+    Last Name:                        เจร10389233
+    Date:                             22/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     '0.50'
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   '0.50'
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_MONTHLY_GUARD05:
+  workgroup:                          CPF Korat Guard - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกรักษาความปลอดภัย โรงงานแปรรูปเนื้อไก่นครราชสีมา
+  leave_approval:                     สัณหวัช
+  leave_type:                         Second Half
+  leave_name:                         Sick Leave Take
+  leave_status:                       Approved
+  leave_approve_date:                 14/02/2021
+  leave_start_date:                   14/02/2021
+  leave_end_date:                     14/02/2021
+  date_in:                            14/02/2021
+  date_out:                           14/02/2021
+  time_in:                            '08:00'
+  time_out:                           '12:00'
+  time_req_reason:                    ทดสอบ
+  status_in:                          ''
+  status_out:                         ''
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10389233'
+    Full Name:                        นาย สถิตย์ เจร10389233
+    First Name:                       สถิตย์
+    Last Name:                        เจร10389233
+    Date:                             14/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '0.50'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       '0.50'
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_MONTHLY_GUARD06:
+  workgroup:                          CPF Korat Guard - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกรักษาความปลอดภัย โรงงานแปรรูปเนื้อไก่นครราชสีมา
+  ot_type:                            OT1 (Guard-Holiday)
+  ot_hour:                            '6'
+  ot_min:                             '00'
+  ot_time:                            '6.00'
+  work_date:                          13/02/2021
+  date_in:                            13/02/2021
+  date_out:                           13/02/2021
+  time_in:                            '08:00'
+  time_out:                           '15:00'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10389233'
+    Full Name:                        นาย สถิตย์ เจร10389233
+    First Name:                       สถิตย์
+    Last Name:                        เจร10389233
+    Date:                             13/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      '6.00'
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_MONTHLY_GUARD07:
+  workgroup:                          CPF Korat Guard - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกรักษาความปลอดภัย โรงงานแปรรูปเนื้อไก่นครราชสีมา
+  ot_type:                            OT1 (Guard-Holiday)
+  ot_hour:                            '8'
+  ot_min:                             '00'
+  ot_time:                            '8.00'
+  ot_ex_type:                         O.T.2(Guard)
+  ot_ex_hour:                         '2'
+  ot_ex_min:                          '00'
+  ot_ex_time:                         '2.00'
+  work_date:                          20/02/2021
+  date_in:                            20/02/2021
+  date_out:                           20/02/2021
+  time_in:                            '07:00'
+  time_out:                           '19:00'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10389233'
+    Full Name:                        นาย สถิตย์ เจร10389233
+    First Name:                       สถิตย์
+    Last Name:                        เจร10389233
+    Date:                             20/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      '8.00'
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             '2.00'
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_MONTHLY_GUARD08:
+  workgroup:                          CPF Korat Guard - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกรักษาความปลอดภัย โรงงานแปรรูปเนื้อไก่นครราชสีมา
+  ot_type:                            OT1 (Guard-Holiday)
+  ot_hour:                            '6'
+  ot_min:                             '00'
+  ot_time:                            '6.00'
+  work_date:                          04/03/2021
+  date_in:                            04/03/2021
+  date_out:                           04/03/2021
+  time_in:                            '08:00'
+  time_out:                           '14:00'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     3 (01-03-2021 - 31-03-2021)
+  employee_data:
+    EmployeeID:                       '10389233'
+    Full Name:                        นาย สถิตย์ เจร10389233
+    First Name:                       สถิตย์
+    Last Name:                        เจร10389233
+    Date:                             04/03/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      '5.00'
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_MONTHLY_GUARD09:
+  workgroup:                          CPF Korat Guard - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกรักษาความปลอดภัย โรงงานแปรรูปเนื้อไก่นครราชสีมา
+  ot_type:                            OT1 (Guard-Holiday)
+  ot_hour:                            '8'
+  ot_min:                             '00'
+  ot_time:                            '8.00'
+  ot_ex_type:                         O.T.2(Guard)
+  ot_ex_hour:                         '2'
+  ot_ex_min:                          '00'
+  ot_ex_time:                         '2.00'
+  work_date:                          05/03/2021
+  date_in:                            05/03/2021
+  date_out:                           05/03/2021
+  time_in:                            '08:00'
+  time_out:                           '19:00'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     3 (01-03-2021 - 31-03-2021)
+  employee_data:
+    EmployeeID:                       '10389233'
+    Full Name:                        นาย สถิตย์ เจร10389233
+    First Name:                       สถิตย์
+    Last Name:                        เจร10389233
+    Date:                             05/03/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      '8.00'
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             '2.00'
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+
+TC_MONTHLY01:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  work_date:                          16/02/2021
+  date_in:                            16/02/2021
+  date_out:                           16/02/2021
+  time_in:                            '08:00'
+  time_out:                           '17:00'
+  time_req_reason:                    ทดสอบ
+  status_in:                          ''
+  status_out:                         ''
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10037477'
+    Full Name:                        นางสาว รัตนา โจม10037477
+    First Name:                       รัตนา
+    Last Name:                        โจม10037477
+    Date:                             16/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_MONTHLY02:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  work_date:                          17/02/2021
+  date_in:                            17/02/2021
+  date_out:                           17/02/2021
+  time_in:                            '08:10'
+  time_out:                           '17:00'
+  time_req_reason:                    ทดสอบ
+  status_in:                          'L'
+  status_out:                         ''
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10037477'
+    Full Name:                        นางสาว รัตนา โจม10037477
+    First Name:                       รัตนา
+    Last Name:                        โจม10037477
+    Date:                             17/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''    
+TC_MONTHLY03:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  work_date:                          18/02/2021
+  date_in:                            18/02/2021
+  date_out:                           18/02/2021
+  time_in:                            '08:10'
+  time_out:                           '17:00'
+  time_req_reason:                    ทดสอบ
+  status_in:                          ''
+  status_out:                         'B'
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10037477'
+    Full Name:                        นางสาว รัตนา โจม10037477
+    First Name:                       รัตนา
+    Last Name:                        โจม10037477
+    Date:                             18/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''      
+TC_MONTHLY04:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  work_date:                          16/02/2021
+  date_in:                            16/02/2021
+  date_out:                           16/02/2021
+  time_in:                            'Absent'
+  time_out:                           'Absent'
+  time_req_reason:                    ทดสอบ
+  status_in:                          ''
+  status_out:                         ''
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10150568'
+    Full Name:                        นางสาว สายรุ้ง เขื10150568
+    First Name:                       สายรุ้ง
+    Last Name:                        เขื10150568
+    Date:                             16/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     '1.00'
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''      
+TC_MONTHLY05:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  work_date:                          16/02/2021
+  date_in:                            16/02/2021
+  date_out:                           16/02/2021
+  time_in:                            '08:00'
+  time_out:                           '20:00'
+  time_req_reason:                    ทดสอบ
+  ot_type:                            O.T.1.5(After Shift)
+  ot_hour:                            '2'
+  ot_min:                             '00'
+  ot_time:                            '2.00'
+  status_in:                          ''
+  status_out:                         ''
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10303382'
+    Full Name:                        นาย พงศกร สืบ10303382
+    First Name:                       พงศกร
+    Last Name:                        สืบ10303382
+    Date:                             16/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     '2.00'
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_MONTHLY06:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  work_date:                          17/02/2021
+  date_in:                            17/02/2021
+  date_out:                           17/02/2021
+  time_in:                            '08:00'
+  time_out:                           '19:00'
+  time_req_reason:                    ทดสอบ
+  ot_type:                            O.T.1.5(After Shift)
+  ot_hour:                            '2'
+  ot_min:                             '00'
+  ot_time:                            '2.00'
+  status_in:                          ''
+  status_out:                         ''
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10303382'
+    Full Name:                        นาย พงศกร สืบ10303382
+    First Name:                       พงศกร
+    Last Name:                        สืบ10303382
+    Date:                             17/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_MONTHLY07:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  leave_approval:                     กัญญารัตน์
+  leave_type:                         Full Day
+  leave_name:                         Sick Leave Take
+  leave_status:                       Approved
+  leave_approve_date:                 18/02/2021
+  leave_start_date:                   18/02/2021
+  leave_end_date:                     18/02/2021
+  date_in:                            18/02/2021
+  date_out:                           18/02/2021
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10335231'
+    Full Name:                        นางสาว จุรีรัตน์ อุป10335231
+    First Name:                       จุรีรัตน์
+    Last Name:                        อุป10335231
+    Date:                             18/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       '1.00'
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_MONTHLY08:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  leave_approval:                     กัญญารัตน์
+  leave_type:                         Full Day
+  leave_name:                         Sick Leave Take
+  leave_status:                       Awaiting
+  leave_approve_date:                 16/02/2021
+  leave_start_date:                   16/02/2021
+  leave_end_date:                     16/02/2021
+  date_in:                            16/02/2021
+  date_out:                           16/02/2021
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10335231'
+    Full Name:                        นางสาว จุรีรัตน์ อุป10335231
+    First Name:                       จุรีรัตน์
+    Last Name:                        อุป10335231
+    Date:                             16/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     '1.00'
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''    
+TC_MONTHLY09:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  leave_approval:                     กัญญารัตน์
+  leave_type:                         First Half
+  leave_name:                         Vacation leave take
+  leave_status:                       Approved
+  leave_approve_date:                 17/02/2021
+  leave_start_date:                   17/02/2021
+  leave_end_date:                     17/02/2021
+  date_in:                            17/02/2021
+  date_out:                           17/02/2021
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10335231'
+    Full Name:                        นางสาว จุรีรัตน์ อุป10335231
+    First Name:                       จุรีรัตน์
+    Last Name:                        อุป10335231
+    Date:                             17/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     '0.50'
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   '0.50'
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_MONTHLY10:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  leave_approval:                     กัญญารัตน์
+  leave_type:                         Second Half
+  leave_name:                         Sick Leave Take
+  leave_status:                       Approved
+  leave_approve_date:                 22/02/2021
+  leave_start_date:                   22/02/2021
+  leave_end_date:                     22/02/2021
+  date_in:                            22/02/2021
+  date_out:                           22/02/2021
+  time_in:                            '08:00'
+  time_out:                           '12:00'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10335231'
+    Full Name:                        นางสาว จุรีรัตน์ อุป10335231
+    First Name:                       จุรีรัตน์
+    Last Name:                        อุป10335231
+    Date:                             22/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '0.50'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       '0.50'
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_MONTHLY11:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  work_date:                          20/02/2021
+  date_in:                            20/02/2021
+  date_out:                           21/02/2021
+  time_in:                            '20:00'
+  time_out:                           '05:00'
+  time_req_reason:                    ทดสอบ
+  ot_type:                            O.T.1(Monthly)
+  ot_hour:                            '6'
+  ot_min:                             '00'
+  ot_time:                            '6.00'
+  status_in:                          ''
+  status_out:                         ''
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10347508'
+    Full Name:                        นาย ศักดิ์ชัย จัก10347508
+    First Name:                       ศักดิ์ชัย
+    Last Name:                        จัก10347508
+    Date:                             20/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           '6.00'
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''        
+TC_MONTHLY12:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  work_date:                          20/02/2021
+  date_in:                            20/02/2021
+  date_out:                           20/02/2021
+  time_in:                            '08:00'
+  time_out:                           '19:00'
+  time_req_reason:                    ทดสอบ
+  ot_type:                            O.T.1(Monthly)
+  ot_hour:                            '8'
+  ot_min:                             '00'
+  ot_time:                            '8.00'
+  ot_ex_type:                         'O.T.3(After Shift)'
+  ot_ex_hour:                         '2'
+  ot_ex_min:                          '00'
+  ot_ex_time:                         '2.00'
+  status_in:                          ''
+  status_out:                         ''
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10355297'
+    Full Name:                        นางสาว ฤทัยรัตน์ อุบ10355297
+    First Name:                       ฤทัยรัตน์
+    Last Name:                        อุบ10355297
+    Date:                             20/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       '2.00'
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           '8.00'
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''    
+TC_MONTHLY13:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  work_date:                          23/02/2021
+  date_in:                            23/02/2021
+  date_out:                           23/02/2021
+  employee_data:
+    EmployeeID:                       '10355297'
+    Full Name:                        นางสาว ฤทัยรัตน์ อุบ10355297
+    First Name:                       ฤทัยรัตน์
+    Last Name:                        อุบ10355297
+    Date:                             23/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''    
+TC_MONTHLY14:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  work_date:                          23/02/2021
+  date_in:                            23/02/2021
+  date_out:                           23/02/2021
+  time_in:                            '08:00'
+  time_out:                           '17:05'
+  time_req_reason:                    ทดสอบ
+  status_in:                          ''
+  status_out:                         ''
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10339569'
+    Full Name:                        นาย ไพโรจน์ มะณ10339569
+    First Name:                       ไพโรจน์
+    Last Name:                        มะณ10339569
+    Date:                             23/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''
+TC_MONTHLY15:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  work_date:                          23/02/2021
+  date_in:                            23/02/2021
+  date_out:                           23/02/2021
+  time_in:                            '08:00'
+  time_out:                           '18:00'
+  time_req_reason:                    ทดสอบ
+  ot_type:                            O.T.1(Monthly)
+  ot_hour:                            '7'
+  ot_min:                             '00'
+  ot_time:                            '7.00'
+  status_in:                          ''
+  status_out:                         ''
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10339565'
+    Full Name:                        Mr. CHANNARONG CHANNARONG
+    First Name:                       ชาญณรงค์
+    Last Name:                        วิเ10339565
+    Date:                             23/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           '7.00'
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''        
+TC_MONTHLY16:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  work_date:                          23/02/2021
+  date_in:                            23/02/2021
+  date_out:                           23/02/2021
+  time_in:                            '08:00'
+  time_out:                           '20:00'
+  time_req_reason:                    ทดสอบ
+  ot_type:                            O.T.1(Monthly)
+  ot_hour:                            '8'
+  ot_min:                             '00'
+  ot_time:                            '8.00'
+  ot_ex_type:                         'O.T.3(After Shift)'
+  ot_ex_hour:                         '2'
+  ot_ex_min:                          '00'
+  ot_ex_time:                         '2.00'
+  status_in:                          ''
+  status_out:                         ''
+  payable_period:                     2 (01-02-2021 - 28-02-2021)
+  employee_data:
+    EmployeeID:                       '10350805'
+    Full Name:                        Miss CHOTIKA CHOTIKA
+    First Name:                       โชติกา
+    Last Name:                        ดาด10350805
+    Date:                             23/02/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       '1.00'
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       '2.00'
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           '8.00'
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         '' 
+TC_MONTHLY17:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  leave_approval:                     กัญญารัตน์
+  leave_type:                         Full Day
+  leave_name:                         Vacation leave take
+  leave_status:                       Approved
+  leave_approve_date:                 01/03/2021
+  leave_start_date:                   01/03/2021
+  leave_end_date:                     01/03/2021
+  date_in:                            01/03/2021
+  date_out:                           01/03/2021
+  time_in:                            '07:55'
+  time_out:                           '17:12'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     3 (01-03-2021 - 31-03-2021)
+  employee_data:
+    EmployeeID:                       '10037477'
+    Full Name:                        นางสาว รัตนา โจม10037477
+    First Name:                       รัตนา
+    Last Name:                        โจม10037477
+    Date:                             01/03/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   '1.00'
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''   
+TC_MONTHLY18:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  leave_approval:                     กัญญารัตน์
+  leave_type:                         Full Day
+  leave_name:                         Vacation leave take
+  leave_status:                       Approved
+  leave_approve_date:                 01/03/2021
+  leave_start_date:                   01/03/2021
+  leave_end_date:                     01/03/2021
+  date_in:                            01/03/2021
+  date_out:                           01/03/2021
+  payable_period:                     3 (01-03-2021 - 31-03-2021)
+  employee_data:
+    EmployeeID:                       '10028169'
+    Full Name:                        นาย ธัชชัย ไทย10028169
+    First Name:                       ธัชชัย
+    Last Name:                        ไทย10028169
+    Date:                             01/03/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   '1.00'
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''   
+TC_MONTHLY19:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  leave_approval:                     กัญญารัตน์
+  leave_type:                         Second Half
+  leave_name:                         Vacation leave take
+  leave_status:                       Approved
+  leave_approve_date:                 01/03/2021
+  leave_start_date:                   01/03/2021
+  leave_end_date:                     01/03/2021
+  date_in:                            01/03/2021
+  date_out:                           01/03/2021
+  time_in:                            '11:00'
+  time_out:                           '12:00'
+  time_req_reason:                    ทดสอบ
+  payable_period:                     3 (01-03-2021 - 31-03-2021)
+  employee_data:
+    EmployeeID:                       '10350805'
+    Full Name:                        Miss CHOTIKA CHOTIKA
+    First Name:                       โชติกา
+    Last Name:                        ดาด10350805
+    Date:                             01/03/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     '0.50'
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       ''
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           ''
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       '0.50'
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''   
+TC_MONTHLY20:
+  workgroup:                          CPF Korat Slaugther - Monthly
+  work_type:                          MONTHLY EMPLOYEE
+  department:                         แผนกแช่เยือกแข็ง
+  time_req_reason:                    ทดสอบ
+  ot_type:                            O.T.1(Monthly)
+  ot_hour:                            '6'
+  ot_min:                             '00'
+  ot_time:                            '6.00'
+  ot_ex_type:                         'O.T.3(After Shift)'
+  ot_ex_hour:                         '3'
+  ot_ex_min:                          '00'
+  ot_ex_time:                         '3.00'
+  date_in:                            06/03/2021
+  date_out:                           06/03/2021
+  time_in:                            '08:00'
+  time_out:                           '20:00'
+  payable_period:                     3 (01-03-2021 - 31-03-2021)
+  employee_data:
+    EmployeeID:                       '10150568'
+    Full Name:                        นางสาว สายรุ้ง เขื10150568
+    First Name:                       สายรุ้ง
+    Last Name:                        เขื10150568
+    Date:                             06/03/2021
+    ์Night Shift (Baht):               ''
+    Leave without pay (Day):          ''
+    Suspend (Day):                    ''
+    Other without pay (Day):          ''
+    Work (Day):                       ''
+    Absent (Day):                     ''
+    OT1 (Guard-Holiday) (Hours):      ''
+    OT. 1.5้(Before Work) (Hours):     ''
+    O.T.1.5(After Shift) (Hours):     ''
+    O.T. 1(Daily) (Hours):            ''
+    O.T.2 (Hours):                    ''
+    O.T.3(After Shift) (Hours):       '3.00'
+    O.T.2(Guard) (Hours):             ''
+    O.T.1(Guard) (Hours):             ''
+    O.T.1(Monthly) (Hours):           '6.00'
+    Vacation (Day):                   ''
+    Personal Leave (Day):             ''
+    Personal Leave(Unpaid) (Day):     ''
+    Sick (Day):                       ''
+    Sick (Unpaid) (Day):              ''
+    Maternity (Day):                  ''
+    Pregnancy Examination (Day):      ''
+    Military (Day):                   ''
+    Monkshood (Day):                  ''
+    Working Outside (Day):            ''
+    Other Leave (Day):                ''
+    Sick (Accident) (Day):            ''
+    Sterilization  (Day):             ''
+    Maternity (Unpaid) (Day):         ''
+    Pregnancy (Unpaid) (Day):         ''   
